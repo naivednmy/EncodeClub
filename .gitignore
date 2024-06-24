@@ -1,0 +1,36 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+week_2_project/story-telling-app/node_modules
+week_2_project/story-telling-app//.pnp
+week_2_project/story-telling-app/.pnp.js
+week_2_project/story-telling-app/.yarn/install-state.gz
+
+# testing
+week_2_project/story-telling-app//coverage
+
+# next.js
+week_2_project/story-telling-app//.next/
+week_2_project/story-telling-app//out/
+
+# production
+week_2_project/story-telling-app//build
+
+# misc
+week_2_project/story-telling-app/.DS_Store
+week_2_project/story-telling-app/*.pem
+
+# debug
+week_2_project/story-telling-app/npm-debug.log*
+week_2_project/story-telling-app/yarn-debug.log*
+week_2_project/story-telling-app/yarn-error.log*
+
+# local env files
+week_2_project/story-telling-app/.env*.local
+
+# vercel
+week_2_project/story-telling-app/.vercel
+
+# typescript
+week_2_project/story-telling-app/*.tsbuildinfo
+week_2_project/story-telling-app/next-env.d.ts
