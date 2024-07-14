@@ -1,4 +1,4 @@
-# Encode Club Week 1 Project - Joke Teller APP
+# Encode Club Week 2 Project - Joke Teller APP
 
 ## Description
 This project builds joke teller web application. 
